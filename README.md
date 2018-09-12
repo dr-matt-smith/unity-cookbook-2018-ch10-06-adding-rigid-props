@@ -1,1 +1,1 @@
-# unity-cookbook-2018-ch09-06-adding-rigid-props
+# unity-cookbook-2018-ch10-06-adding-rigid-props
